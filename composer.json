@@ -2,8 +2,8 @@
 	"name": "ankane/exceptional-php",
 	"type": "library",
 	"homepage": "https://github.com/ankane/exceptional-php",
-	"description": "A package for Exceptional PHP",
-	"license": "BSD-2-Clause",
+	"description": "The power of Exceptional for PHP",
+	"license": "MIT",
 	"support": {
 		"issues": "https://github.com/ankane/exceptional-php/issues?state=open"
     	},
